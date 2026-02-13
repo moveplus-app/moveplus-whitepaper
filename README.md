@@ -52,9 +52,13 @@ Genesis Supply: 5,000 NFTs
 
 Attributes:
 • Efficiency → +2% earnings per point
+
 • Comfort → −1.5% energy cost per point
+
 • Resilience → −2% durability loss per point
+
 • Luck → +0.3% bonus chance per point
+
 
 
 Cycle NFT Collection:
