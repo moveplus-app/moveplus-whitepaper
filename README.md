@@ -18,6 +18,7 @@ Move+ is designed for long-term sustainability — combining Web2 revenue stabil
 # 2. The Problem
 
 Traditional fitness platforms:
+
 • Provide no ownership
 
 • Monetize attention rather than performance
@@ -42,12 +43,19 @@ Move+ addresses these structural weaknesses.
 
 ## Base Rules
 
+
 • All NFTs start at Level 0
+
 • Durability cap: 100 / 100
+
 • Durability cap does not increase
+
 • Level cap: 30
+
 • 1 attribute point per level
+
 • Repair and Upgrade are separate mechanics
+
 
 Performance improves with strategy, not lifespan.
 
@@ -85,12 +93,18 @@ Top participants earn Energy rewards based on verified movement.
 Two participation paths:
 
 Standard Users
+
 • Earn tickets through activity
+
 • Automatic entry
 
+
 NFT Holders
+
 • Earn Energy
+
 • Use Energy to purchase raffle entries
+
 
 Anti-cheat mechanisms and GPS verification enforced.
 
@@ -102,17 +116,25 @@ Move+ operates on dual revenue infrastructure.
 
 ## Web2 Revenue (Permanent)
 
+
 • In-app advertisements
+
 • Subscription tiers
+
 • Premium feature unlocks
+
 
 Web2 revenue ensures baseline operational sustainability.
 
 ## Web3 Revenue
 
+
 • Genesis NFT sales (5,000 supply)
+
 • Secondary marketplace royalties
+
 • Future NFT collections (e.g., Cycle NFT)
+
 
 Revenue diversification reduces dependency on token emissions.
 
@@ -123,8 +145,11 @@ Revenue diversification reduces dependency on token emissions.
 Move+ plans to explore a controlled reward token model in Q2 2026.
 
 Token launch is conditional upon:
+
 • Stable user growth
+
 • Verified reward sustainability
+
 • Controlled emission modeling
 
 The token will not precede product validation.
@@ -135,10 +160,15 @@ The token will not precede product validation.
 
 Move+ prioritizes:
 
+
 • Finite leveling
+
 • Controlled reward scaling
+
 • Anti-farming safeguards
+
 • Movement-based proof
+
 • Gradual expansion
 
 Product first.
@@ -150,10 +180,15 @@ Speculation last.
 # 9. Roadmap Overview
 
 Phase 1 – Genesis Foundation
+
 Phase 2 – Expansion Release
+
 Q2 – Retention & Token Exploration
+
 Q3 – Ecosystem Growth
+
 Q4 – Infrastructure & Brand Expansion
+
 
 Detailed roadmap available in official channels.
 
