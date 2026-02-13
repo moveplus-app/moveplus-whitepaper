@@ -1,7 +1,6 @@
 # MOVE+ Whitepaper
 
-Version 1.0 – 2026
-Sustainable Gamified Fitness Infrastructure
+Version 1.0 – Sustainable Gamified Fitness Infrastructure (2026)
 
 ---
 
