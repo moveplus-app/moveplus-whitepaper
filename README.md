@@ -66,6 +66,8 @@ Performance improves with strategy, not lifespan.
 Genesis Supply: 5,000 NFTs
 
 Attributes:
+
+
 • Efficiency → +2% earnings per point
 
 • Comfort → −1.5% energy cost per point
