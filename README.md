@@ -19,13 +19,20 @@ Move+ is designed for long-term sustainability — combining Web2 revenue stabil
 
 Traditional fitness platforms:
 • Provide no ownership
+
 • Monetize attention rather than performance
+
 • Do not reward consistency
 
+
 Previous move-to-earn models:
+
 • Collapsed due to uncontrolled token emissions
+
 • Encouraged farming instead of fitness
+
 • Relied heavily on inflationary rewards
+
 
 Move+ addresses these structural weaknesses.
 
