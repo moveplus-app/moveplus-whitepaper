@@ -56,6 +56,7 @@ Attributes:
 • Resilience → −2% durability loss per point
 • Luck → +0.3% bonus chance per point
 
+
 Cycle NFT Collection:
 A separate collection focused on cycling mechanics, planned for future release.
 
